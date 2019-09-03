@@ -1,0 +1,21 @@
+#topofpage
+{
+    color: firebrick;
+    font-size: larger;
+}
+
+
+.headers
+{
+    color: blue;
+    font-size: larger;
+}
+#body
+{
+    color: indigo;
+    font-size: larger;
+}
+#link{
+    color: darkred;
+    font-size: large;
+}

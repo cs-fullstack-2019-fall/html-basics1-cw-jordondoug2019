@@ -1,0 +1,11 @@
+.bodytext
+{
+    color: forestgreen;
+    font-family: "Century Schoolbook L",fantasy,bold;
+}
+.paratext
+{
+    color: indigo;
+    font-size: larger;
+    font: bold;
+}
